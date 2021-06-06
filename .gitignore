@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+Plotly/*.ipynb_checkpoints
+carotaje_lib/**/.ipynb_checkpoints
+carotaje_lib/**/.vscode
+carotaje_lib/**/.idea
+carotaje_lib/.vscode/
+carotaje_lib/.idea/
+.idea/
+.vscode/

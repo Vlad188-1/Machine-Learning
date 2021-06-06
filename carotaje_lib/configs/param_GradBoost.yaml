@@ -1,0 +1,7 @@
+# Train config
+data_csv: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Train.csv
+status: load
+output: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Results/Exp_GradBoost/Exp_new_2
+n_estimators: 100
+learning_rate: 0.1
+max_depth: 4

@@ -1,0 +1,10 @@
+# Train config
+data_csv: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Train.csv
+status: load
+output: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Results/Exp_GM/Exp_new_1
+n-clusters: 2
+max_iter: 200
+reg_covar: 0.000001
+n_init: 5
+tol: 0.001
+init_params: 'kmeans'

@@ -1,0 +1,12 @@
+# Train config
+data_csv: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Train.csv
+
+lr: 0.001
+epochs_NN: 20
+epochs_AE: 20
+batch_size_NN: 256
+batch_size_AE: 256
+callback_epochs: 30
+
+status: train
+output: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Results/Exp_AE_NN/Exp_new_NN_5

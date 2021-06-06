@@ -1,0 +1,10 @@
+numpy
+pandas
+sklearn
+configparse
+tqdm
+pathlib
+joblib
+
+plotly
+kaleido

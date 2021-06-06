@@ -1,0 +1,5 @@
+# Train config
+data_csv: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Train.csv
+max-iter: 500
+output: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Results/Exp_kmeans/Exp_new_1
+n-clusters: 2

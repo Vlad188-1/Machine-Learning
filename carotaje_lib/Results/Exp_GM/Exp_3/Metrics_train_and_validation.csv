@@ -1,0 +1,5 @@
+,F1_score_train,F1_score_valid,Roc_score_train,Roc_score_valid
+full,0.55,0.55,0.787,0.788
+diag,0.552,0.552,0.783,0.783
+tied,0.269,0.269,0.575,0.573
+spherical,0.427,0.427,0.662,0.66

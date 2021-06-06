@@ -1,0 +1,8 @@
+#Train config
+
+data_csv: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Train.csv
+status: train
+output: /content/drive/MyDrive/Диплом/Папка с кодами/Для написания в диплом/carotaje_lib/Results/Exp_Birch/Exp_new_2
+n-clusters: 2
+treshold: 0.35
+branching_factor: 23
